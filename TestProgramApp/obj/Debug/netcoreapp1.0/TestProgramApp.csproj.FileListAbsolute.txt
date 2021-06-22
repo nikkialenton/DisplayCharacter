@@ -1,0 +1,12 @@
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\bin\Debug\netcoreapp1.0\TestProgramApp.deps.json
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\bin\Debug\netcoreapp1.0\TestProgramApp.runtimeconfig.json
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\bin\Debug\netcoreapp1.0\TestProgramApp.runtimeconfig.dev.json
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\bin\Debug\netcoreapp1.0\TestProgramApp.dll
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\bin\Debug\netcoreapp1.0\TestProgramApp.pdb
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.csprojAssemblyReference.cache
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.AssemblyInfoInputs.cache
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.AssemblyInfo.cs
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.csproj.CoreCompileInputs.cache
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.dll
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.pdb
+C:\Nikki\Personal\Application\TestProgramApp_Alenton\TestProgramApp\obj\Debug\netcoreapp1.0\TestProgramApp.genruntimeconfig.cache
