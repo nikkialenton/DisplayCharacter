@@ -36,7 +36,10 @@ namespace TestProgramApp.Data
             if (!Int32.TryParse(number, out int odd))
                 return false;
 
-            if (odd % 2 == 0 && odd > 0)
+            if (odd % 2 == 0)
+                return false;
+
+            if (odd < 0)
                 return false;
 
             return true;
