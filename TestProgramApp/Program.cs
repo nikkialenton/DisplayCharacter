@@ -21,7 +21,7 @@ namespace TestProgramApp
                 if (!processInput.IsValidInfo(letter, number))
                 {
                     Console.WriteLine("Invalid Input Found.");
-                    AskUser();
+                    inputAgain = AskUser();
                 }
                 else
                 {
